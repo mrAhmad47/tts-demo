@@ -3,6 +3,9 @@
 This is a simple Text-to-Speech (TTS) demo built using [Coqui TTS](https://github.com/coqui-ai/TTS) and [Gradio](https://www.gradio.app/). It takes user input and converts it into synthetic speech using a pretrained Tacotron2 model.
 
 ## 🚀 Demo
+## 🔗 Live Demo
+
+👉 [Click here to try the app](https://huggingface.co/spaces/mrAhmad47/tts-demo)
 
 Run the app locally and test it in your browser.
 
